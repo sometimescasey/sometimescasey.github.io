@@ -1,0 +1,30 @@
+.main_container {
+	max-width: 54rem;
+	margin: auto;
+
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
+    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+	line-height: 1.6;
+	font-size: 18px;
+
+	text-align: center;
+}
+
+.main_giantlumber {
+	font-size: 200px;
+}
+
+.coming_soon {
+	margin: 2rem;
+	padding: 2rem;
+	border: 1px solid lightgrey;
+	border-radius: 16px;
+	-webkit-box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.32); 
+	box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.1);
+}
+
+h2 {
+	font-weight: 400;
+	margin-left: 2rem;
+	margin-right: 2rem;
+}
